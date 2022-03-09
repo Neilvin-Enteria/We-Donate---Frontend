@@ -61,6 +61,25 @@
     opacity: 0.5;
 }
 
+.product-device-3 {
+    position: absolute;
+    right: 0%;
+    bottom: -76%;
+    width: 400px;
+    height: 640px;
+    border-radius: 21px;
+    transform: rotate(0deg);
+}
+
+.product-device-4 {
+    position: absolute;
+    left: 0%;
+    bottom: -70%;
+    width: 400px;
+    height: 640px;
+    border-radius: 21px;
+    transform: rotate(0deg);
+}
 
 /*
  * Extra utilities
